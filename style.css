@@ -1,0 +1,26 @@
+.hidden {
+  display: none;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#openModalBtn {
+  margin: 20px;
+}
+
+#accessibleModal {
+  border: solid 2px black;
+}
+
+#dialogOpenBtn {
+  margin: 20px;
+}
+
+#menuButton {
+  margin: 20px;
+}
